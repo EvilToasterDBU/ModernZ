@@ -390,8 +390,16 @@ Having said that, ModernZ still uses parts of the old code, and every previous a
 
 ## HH-AA
 
-<!-- In quiet memory, always. -->
-<!-- Somewhere beyond time, we'll meet again. -->
-
-<img width="973" height="309" alt="c7dbd158" src="https://github.com/user-attachments/assets/416388f1-6b3f-4e9f-8be4-2364f8aa0c96" />
-
+<table>
+  <tr>
+    <td>
+      - In quiet memory, always.<br>
+      - Somewhere beyond time, we'll meet again.
+  </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="973" height="309" alt="c7dbd158" src="https://github.com/user-attachments/assets/416388f1-6b3f-4e9f-8be4-2364f8aa0c96" />
+    </td>
+  </tr>
+</table>
